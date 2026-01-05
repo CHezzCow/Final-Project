@@ -1,0 +1,71 @@
+header{
+    background-image:url("https://media.istockphoto.com/id/1279690557/photo/innovation-and-new-ideas-lightbulb-concept-with-question-mark.jpg?s=612x612&w=0&k=20&c=uIdz_VQVUJBsESGPLShjwwrcGg3LUYOca20FdK26N08="); background-repeat: no-repeat; background-size:cover;
+    height:300px;
+}
+
+h4{
+    color:cornsilk
+}
+
+body{
+    background-color:cadetblue;
+}
+
+button{
+    background-color:lightsteelblue;
+}
+
+h4{
+    color:cornsilk
+}
+
+body{
+    background-color:red;
+   animation: colorchanging 10s infinite; 
+}
+@keyframes colorchanging{
+    0%{
+        background-color:orange;
+    }
+    10%{
+        background-color: yellow;
+    }
+    20%{
+        background-color:yellowgreen;
+    }
+    30%{
+        background-color: green;
+    }
+    40%{
+        background-color:lightskyblue;
+    }
+    50%{
+        background-color: dodgerblue;
+    }
+    60%{
+        background-color: blue;
+    }
+    70%{
+        background-color: mediumpurple;
+    }
+    80%{
+        background-color: blueviolet;
+    }
+    90%{
+        background-color:purple; 
+    }
+    100%{
+        background-color:black;
+    }
+
+}
+
+body{
+    background-color:cadetblue;
+}
+
+form{
+    background-color:cornflowerblue; width:270px; border-radius:20px; padding:20px;
+}
+
+
